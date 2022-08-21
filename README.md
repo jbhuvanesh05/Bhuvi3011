@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Bhuvi3011
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I'm @jbhuvanesh05
+- 👀 I’m interested in IT field work
+- 🌱 I’m currently learning SQL 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-Bhuvi3011/Bhuvi3011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jbhuvanesh05/jbhuvanesh05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
